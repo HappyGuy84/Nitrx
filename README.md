@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Squuv/Nitrx)](https://repl.it/github/Squuv/Nitrx)
 <h1 align="center">
   <br>
   <a href="https://github.com/Squuv">
